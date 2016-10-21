@@ -7,7 +7,7 @@ This project is a basic postal code finder which uses Google Geolocation API to 
 #Logic Behind this app
 
 Google Geolocation provides you a link which when run on browser gives information about the place entered in xml data format with postalcode, latitude/londitude and other data which then to parsed by javascript to extract postal code and display on screen and then extract latitudes and longitues of the place from XML data and pass them to google maps which then displays map of the place you entered with a pin.
-
+ 
 #Tool used
 
 * Google Maps API
