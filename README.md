@@ -2,7 +2,7 @@
 
 ###You will be needing Google Geolocation API key to run this app
 
-##This project is a basic postal code finder which uses Google Geolocation API to find postal code for the place user enters
+This project is a basic postal code finder which uses Google Geolocation API to find postal code for the place user enters
 
 #Logic Behind this app
 
