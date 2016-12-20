@@ -12,7 +12,6 @@ Google Geolocation provides you a link which when run on browser gives informati
 
 * Google Maps API
 * Google Geolocation API
-* PHP
 * HTML
 * CSS
 * Bootstrap
